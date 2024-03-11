@@ -1,0 +1,32 @@
+_repo: De-la-volonte_73024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duportal, Marguerite
+    alias: Maigue, Louis
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '56915'
+    url: http://www.gutenberg.org/2009/agents/56915
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73024'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k14163825
+pgterms:marc905: 20240220065737duportal
+pgterms:marc906: '1926'
+pgterms:marc907: Fr
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bLethielleux, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Will'
+- !lcc 'BF'
+- GITenberg
+title: De la volonté
+url: http://www.gutenberg.org/ebooks/73024
